@@ -16,15 +16,19 @@ I’m currently completing structured professional development in **machine lear
 - **Languages:** Python, SQL, JavaScript
 - **Data & Analytics:** Pandas, NumPy, Tableau, Power BI
 - **Machine Learning:** scikit-learn, model evaluation, feature engineering
-- **AI Systems:** RAG concepts, embeddings, vector search (in progress)
+- **AI Systems:** LangGraph, LangChain, GPT-4o-mini, agentic pipelines, RAG concepts, vector search
 - **Tools:** Git, Jupyter, VS Code
 
 ---
 
-## 🚧 GitHub Status: Under Construction
+## 🚧 GitHub Status: Active
 I’m actively rebuilding this GitHub to reflect my current work and capabilities.
 
-### Projects launching shortly:
+### Projects launching:
+- **AI Drift Analytics Agent** *(Live)*
+Production-style agentic AI system that monitors software version drift across 1,000 enterprise applications. Built with LangGraph + GPT-4o-mini + SQLite. Ask it questions in plain English — it generates SQL, queries the database, and returns director-level risk briefings.
+→ github.com/David-P23/ai-drift-analytics-agent
+
 - **Wind Turbine Failure Analysis (ML Project)**  
   End-to-end ML workflow using synthetic + generated datasets to predict failure modes, analyze leading indicators, and evaluate model performance.
 
