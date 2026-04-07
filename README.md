@@ -27,7 +27,7 @@ I’m actively rebuilding this GitHub to reflect my current work and capabilitie
 ### Projects launching:
 - **AI Drift Analytics Agent** *(Live)*
 Production-style agentic AI system that monitors software version drift across 1,000 enterprise applications. Built with LangGraph + GPT-4o-mini + SQLite. Ask it questions in plain English — it generates SQL, queries the database, and returns director-level risk briefings.
-→ github.com/David-P23/ai-drift-analytics-agent
+→ [github.com/David-P23/ai-drift-analytics-agent](https://github.com/David-P23/ai-drift-analytics-agent) | [🔍 Live Demo](https://ai-drift-analytics-agent-hrhgjperokzzvgytvv8yxq.streamlit.app)
 
 - **Wind Turbine Failure Analysis (ML Project)**  
   End-to-end ML workflow using synthetic + generated datasets to predict failure modes, analyze leading indicators, and evaluate model performance.
