@@ -1,4 +1,4 @@
-# Hi, I’m David Pearcill 👋
+# Hi, I’m David Pearcill 
 
 I’m an AI-focused Software Engineer / Data Analyst with 5+ years of experience in financial services and IT, including 3+ years building analytics systems, data pipelines, and ML-adjacent solutions in regulated environments.
 
